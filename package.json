@@ -1,6 +1,6 @@
 {
   "name": "numberread",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "number to read format",
   "main": "index.js",
   "scripts": {
