@@ -1,0 +1,12 @@
+{
+  "name": "numberread",
+  "version": "1.0.0",
+  "description": "number to read format",
+  "main": "index.js",
+  "scripts": {
+    "publish": "npm publish --access public"
+  },
+  "keywords": [],
+  "author": "Akbar Uddin",
+  "license": "ISC"
+}
